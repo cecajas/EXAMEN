@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578954160271",
+    "project_id": "my-application-examen",
+    "storage_bucket": "my-application-examen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578954160271:android:89c040ef53305ac9e0a8fa",
+        "android_client_info": {
+          "package_name": "com.cristobale.myapplicationexamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578954160271-5jeonp0annh7pk5n7dqpc0oh7jmc4cn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCGVRyT12u5Or78LuOhJo2Q3l3GWnpE4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578954160271-5jeonp0annh7pk5n7dqpc0oh7jmc4cn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
